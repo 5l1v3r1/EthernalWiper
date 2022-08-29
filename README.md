@@ -8,5 +8,8 @@ My first wiper written in C
   - Will try to encrypt the C Drive with some random symbols and numbers
   - And will try to wipe the entire logonui.exe. Tested on WindowsXP Professional x64 (VMware)
 
+# Requirements:
+  - Visual Studio 2017 Redistribuitable
+  
 # Disclaimer
-- Im not responsable for any damages caused by this software. 
+- Im not responsable for any damages caused by this software.
